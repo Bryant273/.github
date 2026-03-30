@@ -67,24 +67,65 @@ INNOV'KORP se positionne comme :
 
 ## 🛠️ Tech Stack Préféré
 
-**Stack de Prédilection :**
-- **Frontend** : Angular
+**Stack Backend & Infrastructure :**
 - **Backend** : Spring (Java)
 - **Système, sécurité interne et communication DB** : Rust
 - **Gateway et performance** : Go
 - **Données** : PostgreSQL
 
-**Stack pour Prototypage Rapide :**
-- **Frontend** : React
-- **Backend** : Node.js
+**Stack Frontend Web :**
+- **Frontend Principal** : Angular
+- **Frontend Prototypage Rapide** : React
 - **Amplificateur** : IA & No-Code
+
+**Stack Mobile Multiplateforme :**
+- 📱 **Flutter** (iOS, Android, Web, Desktop)
+- 🔶 **React Native** (iOS, Android)
+- 💙 **Kotlin** (Android natif)
+- 🍎 **Swift** (iOS natif)
+- ⚡ **Ionic** (iOS, Android, Progressive Web Apps)
 
 ## 🌟 Cofondateurs
 
 INNOV'KORP a été fondée par :
 - **SILUÉ AHMED** (CEO)
-- **DIALI EVAN'S** (Directeur marketing & Comunication)
+- **DIALI EVAN'S** (Directeur Marketing & Communication)
 - **BITADA EMMANUEL** (Directeur Informatique et Développement)
+
+## 🚀 Nous Recrutons !
+
+**INNOV'KORP est en forte croissance et nous recherchons activement des développeurs talentueux !**
+
+### Qui cherchons-nous ?
+Des développeurs maîtrisant nos stacks de prédilection :
+
+**Backend & Infrastructure :**
+- ☕ **Spring / Java** (Backend)
+- 🦀 **Rust** (Système, sécurité, communication DB)
+- 🐹 **Go** (Gateway, performance)
+- 🐘 **PostgreSQL** (Données)
+
+**Frontend Web :**
+- ⚛️ **Angular** (Frontend Principal)
+- ⚛️ **React** (Prototypage Rapide)
+
+**Mobile Multiplateforme :**
+- 🦋 **Flutter** (iOS, Android, Web, Desktop)
+- ⚛️ **React Native** (iOS, Android)
+- 💙 **Kotlin** (Android)
+- 🍎 **Swift** (iOS)
+- ⚡ **Ionic** (PWA & Mobile)
+
+### Pourquoi nous rejoindre ?
+- 🌍 Contribuer à la **souveraineté technologique africaine**
+- 💡 Travailler sur des projets **d'impact continental**
+- 💰 **Très bonne rémunération** assurée à tous les membres de l'équipe
+- 🚀 Opportunités d'évolution rapide dans une startup en croissance exponentielle
+- 🤝 Travailler aux côtés d'une équipe de fondateurs visionnaires
+- 🎯 Construire ensemble l'infrastructure numérique du continent
+
+### 📮 Intéressé(e) ?
+Contactez-moi directement pour discuter des opportunités et rejoindre cette aventure !
 
 ## 📊 GitHub Stats
 
@@ -95,15 +136,16 @@ INNOV'KORP a été fondée par :
 *Les solutions phares d'INNOV'KORP seront documentées ici*
 
 - **UNIKORP** - ERP complet pour les entreprises africaines
+- **UNI-VERX** - ERP Universitaire
+- **TAK-CI** - VTC et Livraisons
 - **Blue AI** - Moteur d'intelligence artificielle de l'écosystème
-- **LUWA Pay** - Paiements et portefeuille électronique africain
+- **LUWA Pay** - Paiements et portefeuille électronique
 
 ## 🌐 Connectez-Vous Avec Moi
 
-- 💼 [LinkedIn](votre-url-linkedin)
-- 🐦 [Twitter/X](votre-url-twitter)
-- 📧 [Email](mailto:votre-email@example.com)
-- 🌐 [INNOV'KORP](votre-site-innov-korp)
+- 💼 [LinkedIn](https://www.linkedin.com/in/silueahmed273)
+- 📧 Email personnel : silueahmed273@gmail.com
+- 📧 Email entreprise : innov.korp@gmail.com
 
 ## 💬 Philosophie
 

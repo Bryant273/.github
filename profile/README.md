@@ -1,5 +1,7 @@
 # Ahmed Silué - Bryant273 👋
 
+🇫🇷 **Français** | [🇬🇧 **English**](#english-version)
+
 Bienvenue sur mon profil GitHub ! Je suis **Fondateur et CEO de INNOV'KORP**, une startup pionnière dédiée à la **souveraineté technologique africaine**. Je suis aussi un **vibe-coder** passionné par la transformation des idées en solutions d'impact grâce à l'IA et l'innovation low-code.
 
 ## 🌍 À Propos de Moi
@@ -136,10 +138,8 @@ Contactez-moi directement pour discuter des opportunités et rejoindre cette ave
 *Les solutions phares d'INNOV'KORP seront documentées ici*
 
 - **UNIKORP** - ERP complet pour les entreprises africaines
-- **UNI-VERX** - ERP Universitaire
-- **TAK-CI** - VTC et Livraisons
 - **Blue AI** - Moteur d'intelligence artificielle de l'écosystème
-- **LUWA Pay** - Paiements et portefeuille électronique
+- **LUWA Pay** - Paiements et portefeuille électronique africain
 
 ## 🌐 Connectez-Vous Avec Moi
 
@@ -162,3 +162,172 @@ Je crois que :
 ⭐️ Si vous croyez en la souveraineté technologique africaine, si vous travaillez sur l'innovation en Afrique, ou si vous avez des idées pour INNOV'KORP, parlons ! 🚀
 
 **Rejoignons la révolution numérique africaine.**
+
+---
+
+## English Version
+
+# Ahmed Silué - Bryant273 ��
+
+[🇫🇷 **Français**](#top) | 🇬🇧 **English**
+
+Welcome to my GitHub profile! I am **Founder and CEO of INNOV'KORP**, a pioneering startup dedicated to **African technological sovereignty**. I'm also a **vibe-coder** passionate about transforming ideas into impactful solutions through AI and low-code innovation.
+
+## 🌍 About Me
+
+I believe Africa deserves to regain control of its digital infrastructure. Though not a traditional coder, I've gained a deep understanding of software development and architecture principles by prototyping with AI.
+
+My diverse background in **management, finance, and logistics** allows me to understand the real needs of African businesses. My accounting experience has shown me that our financial and operational systems depend too much on foreign solutions. **It's time to change that.**
+
+As CEO of INNOV'KORP, I combine:
+- 📊 **Domain Expertise** - Management, finance, logistics
+- 🧠 **Strategic Vision** - African technological sovereignty
+- 🤖 **AI Innovation** - Rapid prototyping and intelligent iteration
+- 🔗 **Systems Thinking** - Building an ecosystem, not isolated solutions
+
+## 🏢 INNOV'KORP - African Digital Ecosystem
+
+**Mission:** Build an integrated African digital infrastructure, capable of reducing technological dependence and offering powerful, adapted, and accessible solutions.
+
+### The Challenge
+Today, African businesses operate with:
+- ❌ Expensive foreign software
+- ❌ Uncontrolled external infrastructure
+- ❌ Systems poorly adapted to local realities
+- ❌ Poor data control
+
+**Result:** technological dependence, high costs, inappropriate solutions.
+
+### Our Vision
+✨ Reclaim digital control on the continent by building a coherent ecosystem where each product integrates into a larger whole.
+
+### 🏗️ INNOV'KORP Ecosystem
+
+| Pillar | Solutions | Objective |
+|--------|-----------|----------|
+| **1. ERP & Management** | UNIKORP, SKOMPTAB, SOCIX, MARKOS, LOGSON, KONTROL, UNI-VERX | Structure organizations, generate reliable data |
+| **2. AI Intelligence** | Blue AI | Analyze, automate, optimize the ecosystem |
+| **3. Finance** | LUWA Pay, KAPEX | Control financial flows locally |
+| **4. Productivity** | BHARA OFFICE, SPINO | Accelerate digital tool creation |
+| **5. Information Access** | HOUB, Findit | Control access to digital resources |
+| **6. Operating Systems** | BAURA OS, B-OS | Reduce dependence on foreign environments |
+| **7. Operational Services** | TAK-CI, E-SANTÉ CIV | Direct impact on daily usage |
+| **8. Content** | AFRIK MANGA+ | Complete cultural and digital ecosystem |
+
+### Positioning
+INNOV'KORP positions itself as:
+- 🏗️ A **digital infrastructure builder**
+- 🛡️ An **actor for technological sovereignty**
+- 🔌 An **interconnected solutions integrator**
+
+## 💼 What I Do
+
+- 🔮 **AI-Driven Prototyping** - From idea to MVP in record time
+- 📈 **Product Strategy** - Direct INNOV'KORP toward exponential growth
+- 🏛️ **Ecosystem Architecture** - Design integrated and scalable solutions
+- 💡 **Technological Innovation** - Think African, act global
+- 🤝 **Leadership & Partnerships** - Build synergies for impact
+
+## 🎓 Education
+
+- 🎯 **Master's** - Finance & Accounting
+- 📚 **Bachelor's** - SME Management
+- 🚚 **BTS** - Transport & Logistics
+
+*Currently: Accountant | Transitioning to full-time as Founder & CEO*
+
+## 🛠️ Preferred Tech Stack
+
+**Backend & Infrastructure:**
+- **Backend**: Spring (Java)
+- **System, internal security and DB communication**: Rust
+- **Gateway and performance**: Go
+- **Data**: PostgreSQL
+
+**Frontend Web Stack:**
+- **Primary Frontend**: Angular
+- **Rapid Prototyping Frontend**: React
+- **Amplifier**: AI & No-Code
+
+**Cross-Platform Mobile Stack:**
+- 📱 **Flutter** (iOS, Android, Web, Desktop)
+- 🔶 **React Native** (iOS, Android)
+- 💙 **Kotlin** (Android native)
+- 🍎 **Swift** (iOS native)
+- ⚡ **Ionic** (iOS, Android, Progressive Web Apps)
+
+## 🌟 Co-founders
+
+INNOV'KORP was founded by:
+- **SILUÉ AHMED** (CEO)
+- **DIALI EVAN'S** (Marketing Director & Communication)
+- **BITADA EMMANUEL** (IT Director and Development)
+
+## 🚀 We're Hiring!
+
+**INNOV'KORP is growing rapidly and actively seeking talented developers!**
+
+### Who are we looking for?
+Developers proficient with our preferred stacks:
+
+**Backend & Infrastructure:**
+- ☕ **Spring / Java** (Backend)
+- 🦀 **Rust** (System, security, DB communication)
+- 🐹 **Go** (Gateway, performance)
+- 🐘 **PostgreSQL** (Data)
+
+**Frontend Web:**
+- ⚛️ **Angular** (Primary Frontend)
+- ⚛️ **React** (Rapid Prototyping)
+
+**Cross-Platform Mobile:**
+- 🦋 **Flutter** (iOS, Android, Web, Desktop)
+- ⚛️ **React Native** (iOS, Android)
+- 💙 **Kotlin** (Android)
+- 🍎 **Swift** (iOS)
+- ⚡ **Ionic** (PWA & Mobile)
+
+### Why Join Us?
+- 🌍 Contribute to **African technological sovereignty**
+- 💡 Work on projects with **continental impact**
+- 💰 **Excellent compensation** guaranteed for all team members
+- 🚀 Rapid evolution opportunities in an exponentially growing startup
+- 🤝 Work alongside a visionary founding team
+- 🎯 Build the continent's digital infrastructure together
+
+### 📮 Interested?
+Contact me directly to discuss opportunities and join this adventure!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryant273&show_icons=true&theme=radical)
+
+## 🎯 Featured Projects
+
+*INNOV'KORP's flagship solutions will be documented here*
+
+- **UNIKORP** - Complete ERP for African businesses
+- **Blue AI** - Artificial intelligence engine of the ecosystem
+- **LUWA Pay** - African payments and electronic wallet
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/silueahmed273)
+- 📧 Personal Email: silueahmed273@gmail.com
+- 📧 Business Email: innov.korp@gmail.com
+
+## 💬 Philosophy
+
+> "INNOV'KORP doesn't just seek to innovate. The company seeks to rebalance technological power. Moving from **dependent users** to **masters of their systems**."
+
+I believe that:
+- 🌍 Africa has the potential to build its own technological solutions
+- 🤖 AI democratizes innovation and tech entrepreneurship
+- 🔗 Integrated ecosystems create more value than isolated solutions
+- 💡 True innovators understand grassroots needs
+
+---
+
+⭐️ If you believe in African technological sovereignty, work on innovation in Africa, or have ideas for INNOV'KORP, let's talk! 🚀
+
+**Let's join the African digital revolution.**

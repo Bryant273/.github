@@ -90,10 +90,19 @@ INNOV'KORP se positionne comme :
 
 ## 🌟 Cofondateurs
 
-INNOV'KORP a été fondée par :
-- **SILUÉ AHMED** (CEO)
-- **DIALI EVAN'S** (Directeur Marketing & Communication)
-- **BITADA EMMANUEL** (Directeur Informatique et Développement)
+INNOV'KORP a été fondée par une équipe complémentaire de visionnaires :
+
+- **SILUÉ AHMED** (CEO)  
+  Fondateur et visionnaire | Stratégie globale, direction générale
+
+- **DIALI EVAN'S** (Directeur Marketing & Communication)  
+  Stratégie marketing | Positionnement de marque, communication d'impact
+
+- **BITADA EMMANUEL** (Directeur Informatique et Développement)  
+  Architecture technique | Leadership du développement, infrastructure
+
+- **HABIB KONÉ** (Chargé du Portefeuille Relationnel)  
+  Relations stratégiques | Partenariats clés, écosystème d'affaires
 
 ## 🚀 Nous Recrutons !
 
@@ -122,10 +131,11 @@ Des développeurs maîtrisant nos stacks de prédilection :
 ### Pourquoi nous rejoindre ?
 - 🌍 Contribuer à la **souveraineté technologique africaine**
 - 💡 Travailler sur des projets **d'impact continental**
-- 💰 **Très bonne rémunération** assurée à tous les membres de l'équipe
+- 💰 **Bonne rémunération à long terme possible** - À mesure que nos solutions se développent et que nous conquérons le marché, j'augmenterai mes moyens et la valeur de l'entreprise pour offrir une excellente rémunération à tous
 - 🚀 Opportunités d'évolution rapide dans une startup en croissance exponentielle
 - 🤝 Travailler aux côtés d'une équipe de fondateurs visionnaires
 - 🎯 Construire ensemble l'infrastructure numérique du continent
+- 📈 Être part d'une aventure qui crée de la richesse collective
 
 ### 📮 Intéressé(e) ?
 Contactez-moi directement pour discuter des opportunités et rejoindre cette aventure !
@@ -356,10 +366,19 @@ INNOV'KORP positions itself as:
 
 ## 🌟 Co-founders
 
-INNOV'KORP was founded by:
-- **SILUÉ AHMED** (CEO)
-- **DIALI EVAN'S** (Marketing Director & Communication)
-- **BITADA EMMANUEL** (IT Director and Development)
+INNOV'KORP was founded by a complementary team of visionaries:
+
+- **SILUÉ AHMED** (CEO)  
+  Founder and visionary | Global strategy, general direction
+
+- **DIALI EVAN'S** (Marketing Director & Communication)  
+  Marketing strategy | Brand positioning, impact communication
+
+- **BITADA EMMANUEL** (IT Director and Development)  
+  Technical architecture | Development leadership, infrastructure
+
+- **HABIB KONÉ** (Relationship Portfolio Manager)  
+  Strategic relationships | Key partnerships, business ecosystem
 
 ## 🚀 We're Hiring!
 
@@ -388,10 +407,11 @@ Developers proficient with our preferred stacks:
 ### Why Join Us?
 - 🌍 Contribute to **African technological sovereignty**
 - 💡 Work on projects with **continental impact**
-- 💰 **Excellent compensation** guaranteed for all team members
+- 💰 **Good long-term compensation potential** - As our solutions develop and we conquer the market, I'll increase resources and company value to provide excellent compensation for all
 - 🚀 Rapid evolution opportunities in an exponentially growing startup
 - 🤝 Work alongside a visionary founding team
 - 🎯 Build the continent's digital infrastructure together
+- 📈 Be part of an adventure that creates collective wealth
 
 ### 📮 Interested?
 Contact me directly to discuss opportunities and join this adventure!
@@ -556,14 +576,14 @@ I believe that:
 ### 挑战
 如今，非洲企业运营面临：
 - ❌ 昂贵的外国软件
-- ❌ 不受控制的外部基础设施
+- ❌ 不受控��的外部基础设施
 - ❌ 不适应当地现实的系统
 - ❌ 数据控制不力
 
 **结果：** 技术依赖、高成本、不适当的解决方案。
 
 ### 我们的愿景
-✨ 通过建立一个连贯的生态系���来重新掌控大陆上的数字权力，其中每个产品都整合到一个更大的整体中。
+✨ 通过建立一个连贯的生态系统来重新掌控大陆上的数字权力，其中每个产品都整合到一个更大的整体中。
 
 ### 🏗️ INNOV'KORP生态系统
 
@@ -588,7 +608,7 @@ INNOV'KORP定位为：
 
 - 🔮 **人工智能驱动的原型设计** - 从想法到最小可行产品，时间短
 - 📈 **产品策略** - 引导INNOV'KORP实现指数增长
-- 🏛️ **生态系统架构** - 设计一体化和可扩展解决方案
+- 🏛️ **生态系统架构** - 设计一��化和可扩展解决方案
 - 💡 **技术创新** - 以非洲方式思考，全球行动
 - 🤝 **领导力与合作伙伴关系** - 为影响而建立协同效应
 
@@ -622,10 +642,19 @@ INNOV'KORP定位为：
 
 ## 🌟 共同创始人
 
-INNOV'KORP由以下人员创立：
-- **SILUÉ AHMED** (首席执行官)
-- **DIALI EVAN'S** (市场营销总监及通信)
-- **BITADA EMMANUEL** (信息技术总监及开发)
+INNOV'KORP由互补的愿景家团队创立：
+
+- **SILUÉ AHMED** (首席执行官)  
+  创始人和愿景家 | 全球战略，总体方向
+
+- **DIALI EVAN'S** (市场营销总监及通信)  
+  营销战略 | 品牌定位，影响沟通
+
+- **BITADA EMMANUEL** (信息技术总监及开发)  
+  技术架构 | 开发领导力，基础设施
+
+- **HABIB KONÉ** (关系组合经理)  
+  战略关系 | 关键伙伴关系，商业生态系统
 
 ## 🚀 我们正在招聘！
 
@@ -654,10 +683,11 @@ INNOV'KORP由以下人员创立：
 ### 为什么加入我们？
 - 🌍 为**非洲技术主权**做出贡献
 - 💡 从事具有**大陆影响力**的项目
-- 💰 **优秀的薪酬**保证给所有团队成员
+- 💰 **长期薪酬潜力良好** - 随着我们的解决方案开发和市场开拓，我将增加资源和公司价值，为所有人提供优秀薪酬
 - 🚀 在快速增长的初创企业中获得快速晋升机会
 - 🤝 与富有远见的创始团队合作
 - 🎯 共同建立大陆的数字基础设施
+- 📈 成为创造集体财富冒险的一部分
 
 ### 📮 感兴趣？
 直接与我联系讨论机会并加入这场冒险！
@@ -888,10 +918,19 @@ INNOV'KORP позиционирует себя как:
 
 ## 🌟 Соучредители
 
-INNOV'KORP была основана:
-- **SILUÉ AHMED** (генеральный директор)
-- **DIALI EVAN'S** (директор по маркетингу и коммуникациям)
-- **BITADA EMMANUEL** (директор ИТ и разработки)
+INNOV'KORP была основана дополнительной командой провидцев:
+
+- **SILUÉ AHMED** (генеральный директор)  
+  Основатель и провидец | Глобальная стратегия, общее руководство
+
+- **DIALI EVAN'S** (директор по маркетингу и коммуникациям)  
+  Стратегия маркетинга | Позиционирование бренда, коммуникация воздействия
+
+- **BITADA EMMANUEL** (директор ИТ и разработки)  
+  Техническая архитектура | Лидерство разработки, инфраструктура
+
+- **HABIB KONÉ** (менеджер портфеля отношений)  
+  Стратегические отношения | Ключевые партнерства, деловая экосистема
 
 ## 🚀 Мы нанимаем!
 
@@ -920,10 +959,11 @@ INNOV'KORP была основана:
 ### Почему присоединиться к нам?
 - 🌍 Содействовать **технологическому суверенитету Африки**
 - 💡 Работать над проектами с **континентальным воздействием**
-- 💰 **Превосходная компенсация** гарантирована всем членам команды
+- 💰 **Хороший потенциал долгосрочной компенсации** - По мере разработки наших решений и завоевания рынка я буду увеличивать ресурсы и стоимость компании, чтобы предоставить отличную компенсацию для всех
 - 🚀 Возможности быстрого развития в экспоненциально растущей компании
 - 🤝 Работать с дальновидной командой основателей
 - 🎯 Совместно построить цифровую инфраструктуру континента
+- 📈 Быть частью приключения, которое создает коллективное богатство
 
 ### 📮 Заинтересованы?
 Свяжитесь со мной напрямую для обсуждения возможностей и присоединения к этому приключению!
@@ -1005,7 +1045,7 @@ IDE - Среда разработки
 → Контролируемый и оптимизированный интернет-доступ
 
 **Findit**  
-Локальная поисковая система  
+Локальная пои��ковая система  
 → Контролируемые цифровые ресурсы
 
 ---
@@ -1030,7 +1070,7 @@ IDE - Среда разработки
 
 ---
 
-### 🎨 Контент и ку��ьтура
+### 🎨 Контент и культура
 
 **AFRIK MANGA+**  
 Африканская платформа развлечений  
@@ -1154,10 +1194,19 @@ INNOV'KORP positioniert sich als:
 
 ## 🌟 Mitbegründer
 
-INNOV'KORP wurde gegründet von:
-- **SILUÉ AHMED** (CEO)
-- **DIALI EVAN'S** (Marketing Director & Communication)
-- **BITADA EMMANUEL** (IT-Direktor und Entwicklung)
+INNOV'KORP wurde von einem komplementären Team von Visionären gegründet:
+
+- **SILUÉ AHMED** (CEO)  
+  Gründer und Visionär | Globale Strategie, Gesamtleitung
+
+- **DIALI EVAN'S** (Marketing Director & Communication)  
+  Marketingstrategie | Markenpositionierung, Impaktkommunikation
+
+- **BITADA EMMANUEL** (IT-Direktor und Entwicklung)  
+  Technische Architektur | Entwicklungsleadership, Infrastruktur
+
+- **HABIB KONÉ** (Beziehungsportfolio-Manager)  
+  Strategische Beziehungen | Schlüsselpartnerschaften, Geschäftsökosystem
 
 ## 🚀 Wir stellen ein!
 
@@ -1186,10 +1235,11 @@ Entwickler, die unsere bevorzugten Stacks beherrschen:
 ### Warum zu uns stoßen?
 - 🌍 Zur **technologischen Souveränität Afrikas** beitragen
 - 💡 An Projekten mit **kontinentalem Einfluss** arbeiten
-- 💰 **Ausgezeichnete Vergütung** garantiert für alle Teammitglieder
+- 💰 **Gutes langfristiges Kompensationspotenzial** - Mit der Entwicklung unserer Lösungen und der Markteroberung werde ich Ressourcen und Unternehmenswert erhöhen, um eine ausgezeichnete Vergütung für alle bereitzustellen
 - 🚀 Schnelle Entwicklungsmöglichkeiten in einem schnell wachsenden Startup
 - 🤝 Mit einem visionären Gründerteam zusammenarbeiten
 - 🎯 Gemeinsam die digitale Infrastruktur des Kontinents aufbauen
+- 📈 Teil eines Abenteuers sein, das Kollektivvermögen schafft
 
 ### 📮 Interessiert?
 Kontaktieren Sie mich direkt, um Chancen zu besprechen und sich diesem Abenteuer anzuschließen!

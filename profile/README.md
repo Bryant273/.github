@@ -3,11 +3,12 @@
 
 # Ahmed Silué - Bryant273 👋
 
-Bienvenue sur mon profil GitHub ! Je suis **Fondateur et CEO de INNOV'KORP**, une startup pionnière dédiée à la **souveraineté technologique africaine**. Je suis aussi un **vibe-coder** passionné par l'innovation technologique.
+Bienvenue sur mon profil GitHub ! Je suis **Fondateur et CEO de INNOV'KORP**, une startup pionnière dédiée à la **souveraineté technologique africaine**. Je suis aussi un **vibe-coder** passionné par la technologie et l'entrepreneuriat.
 
 ## 🏗️ Architecture INNOV'KORP - Écosystème Intégré
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'curve': 'linear'}, 'theme': 'default', 'themeVariables': {'fontSize': '18px', 'fontFamily': 'arial'}, 'securityLevel': 'loose'}}%%
 graph TB
     subgraph Core["🧠 Couche Intelligence"]
         AI["Blue AI<br/>Moteur IA • Analyse<br/>Automatisation • Optimisation"]
@@ -81,9 +82,9 @@ graph TB
 
 ## 🌍 À Propos de Moi
 
-Je crois que l'Afrique mérite de reprendre le contrôle de son infrastructure numérique. Sans être codeur traditionnel, j'ai acquis une compréhension profonde des principes du développement et de l'architecture grâce à l'utilisation de l'IA pour le prototypage rapide.
+Je crois que l'Afrique mérite de reprendre le contrôle de son infrastructure numérique. Sans être codeur traditionnel, j'ai acquis une compréhension profonde des principes du développement et de l'architecture en utilisant l'IA pour du prototypage rapide.
 
-Ma formation diversifiée en **gestion, finance et logistique** me permet de comprendre les vrais besoins des entreprises africaines. Mon expérience en comptabilité m'a montré que nos systèmes financiers et opérationnels dépendent trop de solutions étrangères.
+Ma formation diversifiée en **gestion, finance et logistique** me permet de comprendre les vrais besoins des entreprises africaines. Mon expérience en comptabilité m'a montré que nos systèmes financiers et opérationnels sont trop dépendants des solutions étrangères.
 
 En tant que CEO d'INNOV'KORP, je combine :
 - 📊 **Expertise métier** - Gestion, finance, logistique
@@ -223,11 +224,12 @@ Je crois que :
 
 # Ahmed Silué - Bryant273 👋
 
-Welcome to my GitHub profile! I am **Founder and CEO of INNOV'KORP**, a pioneering startup dedicated to **African technological sovereignty**. I'm also a **vibe-coder** passionate about technological innovation.
+Welcome to my GitHub profile! I am **Founder and CEO of INNOV'KORP**, a pioneering startup dedicated to **African technological sovereignty**. I'm also a **vibe-coder** passionate about technology and entrepreneurship.
 
 ## 🏗️ INNOV'KORP Architecture - Integrated Ecosystem
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'curve': 'linear'}, 'theme': 'default', 'themeVariables': {'fontSize': '18px', 'fontFamily': 'arial'}, 'securityLevel': 'loose'}}%%
 graph TB
     subgraph Core["🧠 Intelligence Layer"]
         AI["Blue AI<br/>AI Engine • Analytics<br/>Automation • Optimization"]
@@ -303,7 +305,7 @@ graph TB
 
 I believe Africa deserves to regain control of its digital infrastructure. Though not a traditional coder, I've gained a deep understanding of software development and architecture principles by using AI for rapid prototyping.
 
-My diverse background in **management, finance, and logistics** allows me to understand the real needs of African businesses. My accounting experience has shown me that our financial and operational systems rely too heavily on foreign solutions.
+My diverse background in **management, finance, and logistics** allows me to understand the real needs of African businesses. My accounting experience has shown me that our financial and operational systems are too dependent on foreign solutions.
 
 As CEO of INNOV'KORP, I combine:
 - 📊 **Domain Expertise** - Management, finance, logistics
@@ -443,11 +445,12 @@ I believe that:
 
 # Ahmed Silué - Bryant273 👋
 
-Willkommen auf meinem GitHub-Profil! Ich bin **Gründer und CEO von INNOV'KORP**, einem bahnbrechenden Startup für **afrikanische technologische Souveränität**. Ich bin auch ein **Vibe-Coder**, der sich für technologische Innovation begeistert.
+Willkommen auf meinem GitHub-Profil! Ich bin **Gründer und CEO von INNOV'KORP**, einem bahnbrechenden Startup für **afrikanische technologische Souveränität**. Ich bin auch ein **Vibe-Coder**, der leidenschaftlich gerne an Technologie und Unternehmertum arbeitet.
 
 ## 🏗️ INNOV'KORP Architektur - Integriertes Ökosystem
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'curve': 'linear'}, 'theme': 'default', 'themeVariables': {'fontSize': '18px', 'fontFamily': 'arial'}, 'securityLevel': 'loose'}}%%
 graph TB
     subgraph Core["🧠 Intelligenz-Schicht"]
         AI["Blue AI<br/>KI-Motor • Analytik<br/>Automatisierung • Optimierung"]
@@ -521,9 +524,9 @@ graph TB
 
 ## 🌍 Über Mich
 
-Ich glaube, dass Afrika die Kontrolle über seine digitale Infrastruktur zurückgewinnen sollte. Obwohl ich kein traditioneller Programmierer bin, habe ich durch die Verwendung von KI für schnelles Prototyping ein tiefes Verständnis für Softwareentwicklung und Architekturprinzipien erworben.
+Ich glaube, dass Afrika die Kontrolle über seine digitale Infrastruktur zurückgewinnen sollte. Obwohl ich kein traditioneller Programmierer bin, habe ich durch die Verwendung von KI für schnelle Prototypenentwicklung ein tiefes Verständnis der Softwareentwicklungs- und Architekturprinzipien erworben.
 
-Mein vielfältiger Hintergrund in **Management, Finanzen und Logistik** ermöglicht es mir, die realen Anforderungen afrikanischer Unternehmen zu verstehen. Meine Rechnungswesenerfahrung hat mir gezeigt, dass unsere Finanz- und Betriebssysteme zu stark von ausländischen Lösungen abhängen.
+Mein vielfältiger Hintergrund in **Management, Finanzen und Logistik** ermöglicht es mir, die realen Anforderungen afrikanischer Unternehmen zu verstehen. Meine Rechnungswesenerfahrung hat mir gezeigt, dass unsere Finanz- und Betriebssysteme zu sehr von ausländischen Lösungen abhängig sind.
 
 Als CEO von INNOV'KORP kombiniere ich:
 - 📊 **Fachwissen** - Management, Finanzen, Logistik
@@ -663,11 +666,12 @@ Ich glaube, dass:
 
 # Ahmed Silué - Bryant273 👋
 
-Добро пожаловать на мой профиль GitHub! Я **основатель и генеральный директор INNOV'KORP**, инновационной компании, посвященной **африканскому технологическому суверенитету**. Я также **кодер с виброй**, увлеченный технологическими инновациями.
+Добро пожаловать на мой профиль GitHub! Я **основатель и генеральный директор INNOV'KORP**, инновационной компании, посвященной **африканскому технологическому суверенитету**. Я также **вибе-кодер**, увлеченный технологиями и предпринимательством.
 
 ## 🏗️ Архитектура INNOV'KORP - Интегрированная экосистема
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'curve': 'linear'}, 'theme': 'default', 'themeVariables': {'fontSize': '18px', 'fontFamily': 'arial'}, 'securityLevel': 'loose'}}%%
 graph TB
     subgraph Core["🧠 Слой интеллекта"]
         AI["Blue AI<br/>Механизм ИИ • Аналитика<br/>Автоматизация • Оптимизация"]
@@ -741,9 +745,9 @@ graph TB
 
 ## 🌍 Обо мне
 
-Я верю, что Африка должна вернуть контроль над своей цифровой инфраструктурой. Хотя я не традиционный программист, я получил глубокое понимание принципов разработки программного обеспечения и архитектуры, используя ИИ для быстрого прототипирования.
+Я верю, что Африка должна вернуть контроль над своей цифровой инфраструктурой. Хотя я не традиционный программист, я приобрел глубокое понимание принципов разработки и архитектуры программного обеспечения благодаря использованию ИИ для быстрого прототипирования.
 
-Мой разнообразный опыт в области **управления, финансов и логистики** позволяет мне понять реальные потребности африканских предприятий. Мой опыт в бухгалтерском учете показал мне, что наши финансовые и операционные системы слишком сильно зависят от иностранных решений.
+Мой разнообразный опыт в области **управления, финансов и логистики** позволяет мне понять реальные потребности африканских предприятий. Мой опыт в бухгалтерском учете показал мне, что наши финансовые и операционные системы слишком зависят от иностранных решений.
 
 Как генеральный директор INNOV'KORP, я сочетаю:
 - 📊 **Профессиональная компетентность** - Управление, финансы, логистика
@@ -765,7 +769,7 @@ graph TB
 **Результат:** технологическая зависимость, высокие затраты, неподходящие решения.
 
 ### Наше видение
-✨ Восстановить цифровой контроль на континенте путем создания согласованной экосистемы, где каждый продукт интегрирует в более крупное целое.
+✨ Восстановить цифровой контроль на континенте путем создания согласованной экосистемы, где каждый продукт интегрируется в более крупное целое.
 
 ### 🏗️ Экосистема INNOV'KORP
 
@@ -827,7 +831,7 @@ INNOV'KORP позиционирует себя как:
 INNOV'KORP была основана дополнительной командой провидцев:
 
 - **SILUÉ AHMED** (генеральный директор) - Основатель и провидец | Глобальная стратегия, общее руководство
-- **DIALI EVAN'S** (директор по маркетингу и коммуникациям) - Стратегия маркетинга | Позиционирование бренда, коммуникация воздействия
+- **DIALI EVAN'S** (директор по маркетингу и коммуникациям) - Стратегия маркетинга | Позиционирование бренда, коммуникация влияния
 - **BITADA EMMANUEL** (директор ИТ и разработки) - Техническая архитектура | Лидерство разработки, инфраструктура
 - **HABIB KONÉ** (менеджер портфеля отношений) - Стратегические отношения | Ключевые партнерства, деловая экосистема
 
@@ -856,7 +860,7 @@ INNOV'KORP была основана дополнительной командо
 
 ## 💬 Философия
 
-> "INNOV'KORP не просто стремится к инновациям. Компания стремится пересбалансировать технологическую власть. От **зависимых пользователей** к **мастерам своих систем**."
+> "INNOV'KORP не просто стремится к инновациям. Компания стремится пересбалансировать технологическую власть. От **зависимых пользователей** к **хозяевам своих систем**."
 
 Я верю, что:
 - 🌍 Африка обладает потенциалом для создания собственных технологических решений
@@ -883,11 +887,12 @@ INNOV'KORP была основана дополнительной командо
 
 # Ahmed Silué - Bryant273 👋
 
-欢迎来到我的GitHub档案！我是**INNOV'KORP的创始人兼首席执行官**，这是一家致力于**非洲技术主权**的先锋初创企业。我也是一名**氛围编码员**，热情地追求技术创新。
+欢迎来到我的GitHub档案！我是**INNOV'KORP的创始人兼首席执行官**，这是一家致力于**非洲技术主权**的先锋初创企业。我也是一名**氛围编码员**，热衷于技术和创业。
 
 ## 🏗️ INNOV'KORP架构 - 集成生态系统
 
 ```mermaid
+%%{init: {'flowchart': {'htmlLabels': true, 'curve': 'linear'}, 'theme': 'default', 'themeVariables': {'fontSize': '18px', 'fontFamily': 'arial'}, 'securityLevel': 'loose'}}%%
 graph TB
     subgraph Core["🧠 智能层"]
         AI["Blue AI<br/>人工智能引擎 • 分析<br/>自动化 • 优化"]
@@ -961,7 +966,7 @@ graph TB
 
 ## 🌍 关于我
 
-我相信非洲应该重新掌控其数字基础设施。虽然我不是传统编码员，但通过使用人工智能进行原型设计，我已经获得了对软件开发和架构原理的深入理解。
+我相信非洲应该重新掌控其数字基础设施。虽然我不是传统编码员，但通过使用人工智能进行快速原型设计，我已经获得了对软件开发和架构原理的深入理解。
 
 我在**管理、金融和物流**领域的多元化背景使我能够理解非洲企业的真实需求。我的会计经验向我表明，我们的财务和运营系统过于依赖外国解决方案。
 
@@ -1001,18 +1006,18 @@ graph TB
 | **8. 内容** | AFRIK MANGA+, O'CHAP | 完整的文化和数字生态系统 |
 
 ### 定位
-INNOV'KORP定位为：
+INNOV'KORP将自己定位为：
 - 🏗️ 一个**数字基础设施建设者**
-- 🛡️ 一个**技术主权倡导者**
-- 🔌 一个**相互连接的解决方案集成者**
+- 🛡️ 一个**技术主权的推动者**
+- 🔌  一个**互联解决方案的整合者**
 
-## 💼 我的工作
+## 💼 我所做的事
 
-- 🔮 **人工智能驱动的原型设计** - 从想法到最小可行产品，时间短
+- 🔮 **人工智能驱动的原型设计** - 从想法到MVP的创纪录时间
 - 📈 **产品策略** - 引导INNOV'KORP实现指数增长
-- 🏛️ **生态系统架构** - 设计一体化和可扩展解决方案
-- 💡 **技术创新** - 以非洲方式思考，全球行动
-- 🤝 **领导力与合作伙伴关系** - 为影响而建立协同效应
+- 🏛️ **生态系统架构** - 设计集成和可扩展的解决方案
+- 💡 **技术创新** - 以非洲思维，全球行动
+- 🤝 **领导力与合作** - 为影响建立协同作用
 
 ## 🎓 教育
 
@@ -1020,80 +1025,80 @@ INNOV'KORP定位为：
 - 📚 **学士** - 中小企业管理
 - 🚚 **BTS** - 运输与物流
 
-*目前：会计师 | 向全职创始人兼首席执行官过渡*
+*目前：会计师 | 作为创始人和首席执行官过渡到全职*
 
-## 🛠️ 首选技术堆栈
+## 🛠️ 首选技术栈
 
 **后端和基础设施：**
-- **后端**: Spring (Java)
-- **系统、内部安全和数据库通信**: Rust
-- **网关和性能**: Go
-- **数据**: PostgreSQL
+- **后端**：Spring (Java)
+- **系统、内部安全和数据库通信**：Rust
+- **网关和性能**：Go
+- **数据**：PostgreSQL
 
-**前端Web堆栈：**
-- **主要前端**: Angular
-- **快速原型前端**: React
-- **放大器**: 人工智能 & No-Code
+**前端Web栈：**
+- **主要前端**：Angular
+- **快速原型前端**：React
+- **增强器**：AI & No-Code
 
-**跨平台移动堆栈：**
+**跨平台移动栈：**
 - 📱 **Flutter** (iOS, Android, Web, Desktop)
 - 🔶 **React Native** (iOS, Android)
-- 💙 **Kotlin** (Android原生)
-- 🍎 **Swift** (iOS原生)
+- 💙 **Kotlin** (Android native)
+- 🍎 **Swift** (iOS native)
 - ⚡ **Ionic** (iOS, Android, Progressive Web Apps)
 
 ## 🌟 共同创始人
 
-INNOV'KORP由互补的愿景家团队创立：
+INNOV'KORP由一个互补的远见卓识者团队创立：
 
-- **SILUÉ AHMED** (首席执行官) - 创始人和愿景家 | 全球战略，总体方向
-- **DIALI EVAN'S** (市场营销总监及通信) - 营销战略 | 品牌定位，影响沟通
-- **BITADA EMMANUEL** (信息技术总监及开发) - 技术架构 | 开发领导力，基础设施
-- **HABIB KONÉ** (关系组合经理) - 战略关系 | 关键伙伴关系，商业生态系统
+- **SILUÉ AHMED** (首席执行官) - 创始人兼远见卓识者 | 全球战略、总体方向
+- **DIALI EVAN'S** (营销和传播总监) - 营销策略 | 品牌定位、影响传播
+- **BITADA EMMANUEL** (IT总监和开发) - 技术架构 | 开发领导、基础设施
+- **HABIB KONÉ** (关系组合经理) - 战略关系 | 关键合作伙伴、商业生态系统
 
-## 🚀 我们正在招聘！
+## 🚀 我们在招聘！
 
-**INNOV'KORP正在快速增长，并积极寻求有才华的开发者！**
+**INNOV'KORP正在快速增长，我们正在积极寻找有才华的开发人员！**
 
 ### 我们在寻找谁？
-精通我们首选堆栈的开发者：Spring/Java、Rust、Go、PostgreSQL、Angular、React、Flutter、React Native、Kotlin、Swift、Ionic
+精通我们首选栈的开发人员：Spring/Java, Rust, Go, PostgreSQL, Angular, React, Flutter, React Native, Kotlin, Swift, Ionic
 
 ### 为什么加入我们？
 - 🌍 为**非洲技术主权**做出贡献
-- 💡 从事具有**大陆影响力**的项目
-- 💰 **长期薪酬潜力良好**
-- 🚀 在快速增长的初创企业中获得快速晋升机会
-- 🤝 与富有远见的创始团队合作
-- 🎯 共同建立大陆的数字基础设施
-- 📈 成为创造集体财富冒险的一部分
+- 💡 从事具有**大陆影响**的项目
+- 💰 **良好的长期薪酬潜力**
+- 🚀 在指数增长的初创公司中快速发展的机会
+- 🤝 与远见卓识的创始团队合作
+- 🎯 共同构建大陆的数字基础设施
+- 📈 成为创造集体财富的冒险的一部分
 
-### 📮 感兴趣？
-直接与我联系讨论机会并加入这场冒险！
+### 📮 有兴趣？
+直接联系我以讨论机会并加入这场冒险！
 
-## 📊 GitHub 统计
+## 📊 GitHub统计
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryant273&show_icons=true&theme=radical)
 
-## 💬 哲学
+## 💬 理念
 
-> "INNOV'KORP不仅仅是为了创新。该公司旨在重新平衡技术权力。从**依赖用户**转变为**系统的主人**。"
+> "INNOV'KORP不仅仅寻求创新。该公司力求重新平衡技术权力。从**依赖用户**到**系统主人**。"
 
 我相信：
 - 🌍 非洲有能力构建自己的技术解决方案
-- 🤖 人工智能民主化创新和科技创业
-- 🔗 集成生态系统比孤立的解决方案创造更多价值
+- 🤖 人工智能民主化创新和技术创业
+- 🔗 集成生态系统比孤立解决方案创造更多价值
 - 💡 真正的创新者理解基层需求
 
 ---
 
-⭐️ 如果您相信非洲技术主权，在非洲从事创新工作，或对INNOV'KORP有想法，让我们谈谈！ 🚀
+⭐️ 如果您相信非洲技术主权，从事非洲创新工作，或对INNOV'KORP有想法，让我们谈谈！ 🚀
 
 **让我们加入非洲数字革命。**
 
 ## 🌐 与我联系
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/silueahmed273)
-- 📧 个人邮箱: silueahmed273@gmail.com
-- 📧 业务邮箱: innov.korp@gmail.com
+- 📧 个人电子邮件：silueahmed273@gmail.com
+- 📧 商务电子邮件：innov.korp@gmail.com
 
 </details>
